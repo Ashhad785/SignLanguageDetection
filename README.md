@@ -1,4 +1,4 @@
-# SignLanguageDetection
+# Sign Language Detection
 
 Real-time Sign Language Detection using Tensorflow Object Detection API. 
 
